@@ -1,0 +1,15 @@
+Estoy trabajando con Jira y el Sistema Agíl SCRUM 
+------------------------------------------------------------------
+Requerimientos:
+
+https://heyydaniel.atlassian.net/wiki/spaces/AP/pages/786434/Entrevista+Requerimientos?atlOrigin=eyJpIjoiMWViNGVjZjBkMzdiNGU0MzhmZjJjOTFlYmJjZTE0MTEiLCJwIjoiaiJ9
+
+
+BuyerPersona:
+
+https://heyydaniel.atlassian.net/wiki/spaces/AP/pages/721142/Buyer+Persona?atlOrigin=eyJpIjoiMjZhZDc2ZjljYWMzNDhlMzkwMjQ2MTRiOTEyMzgyMTgiLCJwIjoiaiJ9
+
+
+PublicoObjetivo:
+
+https://heyydaniel.atlassian.net/wiki/spaces/AP/pages/721142/Buyer+Persona?atlOrigin=eyJpIjoiMjZhZDc2ZjljYWMzNDhlMzkwMjQ2MTRiOTEyMzgyMTgiLCJwIjoiaiJ9
